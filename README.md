@@ -1,5 +1,5 @@
 # Project1
-My First Git Repo
+Amazon Clone
 <br>
 Author: Minhaj Choudhry
 
